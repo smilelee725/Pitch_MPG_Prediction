@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+bundleId:
+        https://api.rpubs.com/api/v1/document/138171/fe1e31811a9e495d9e7a6a41ff0a1f5c
+url: http://rpubs.com/smilelee725/138171
+when: 1451246769.42535
